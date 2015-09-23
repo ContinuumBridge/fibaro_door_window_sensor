@@ -1,0 +1,11 @@
+{
+    "exe": "adaptor.py", 
+    "protocol": "zwave", 
+    "name": "Fibar Group 4096 1792", 
+    "device_resource": "/api/bridge/v1/device/59", 
+    "url": "https://github.com/ContinuumBridge/fibaro_door_window_sensor/archive/v1.0.0.tar.gz", 
+    "version": "1.0.0", 
+    "provider": "ContinuumBridge", 
+    "adaptor_resource": "/api/bridge/v1/adaptor/22", 
+    "description": "Fibaro Door-Window Sensor"
+}
